@@ -6,33 +6,35 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, me chamo Hian! Sou estudante de ADS no Brasil.
+  Olá 👋, me chamo Hian e sou estudante de Análise e Desenvolvimento de Sistemas.
 
-  - 🌱 Atualmente estou no 3° Perido de Analise e Desenvolvimento de Sistemas na Famnias.
+  - 🌱 Atualmente estou no 3° Perido do curso de Análise e Desenvolvimento de Sistemas na Famnias.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Sonho em trabalhar como um Dev Full-Stack.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻Um pouco sobre mim</summary>
 
-  - 💬 Tenho 21 anos, e moro atualmente no Brasil. Tenho pouca experiencia em outras linguagens de programação, mas nada que um bom estudo não resolva.
+  - 💬 Tenho 21 anos, apaixonado por resolver problemas por meio da tecnologia. Busco constantemente aprender e aplicar conceitos inovadores para contribuir para um mundo mais eficiente e conectado.
 
-  - ⚡ Gosto de ler mangas e quadrinhos variados, sempre estudo e faço projetos em minhas horas vagas. \o/
+  - ⚡ Gosto de ler mangas e quadrinhos variados, sempre que posso estudo novas linguagens de programação e novos meios a serem implementados em meus projetos. \o/
 </details>
 
 <!-- Links -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hianmatheus1@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hian_maths?igshid=YTQwZjQ0NmI0OA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hian-matheus/)
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5532998284255&text=Ol%C3%A1%20Hian)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=HianMaths&show_icons=true&theme=gotham)
+![HianMaths GitHub stats](https://github-readme-stats.vercel.app/api?username=HianMaths&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
 - [HTML-CSS - Reconstrução de pagina de filme](https://github.com/HianMaths/FILME-RESGATE-RECONSTRUCAO-PAPGINA)
+- [Clone GOOGLE em produção]
 
 <!-- GIF -->
 <p align="left">
