@@ -33,7 +33,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [HTML-CSS - Reconstrução de pagina de filme](https://github.com/HianMaths/FILME-RESGATE-RECONSTRUCAO-PAPGINA)
-- [Clone GOOGLE](https://github.com/HianMaths/Clone-GOOGLE)
+- [HTML-CSS-JS - Clone GOOGLE](https://github.com/HianMaths/Clone-GOOGLE)
 
 <!-- GIF -->
 <p align="left">
