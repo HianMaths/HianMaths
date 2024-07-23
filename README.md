@@ -8,19 +8,10 @@
 <p>
   Olá 👋, me chamo Hian e sou estudante de Análise e Desenvolvimento de Sistemas.
 
-  - 🌱 Atualmente estou no 3° Perido do curso de Análise e Desenvolvimento de Sistemas na Famnias.
+  - 🌱 Atualmente estou no 4° Periodo do curso de Análise e Desenvolvimento de Sistemas na Faminas.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻Um pouco sobre mim</summary>
-
-  - 💬 Tenho 21 anos, e sou apaixonado por resolver problemas por meio da tecnologia. Busco constantemente aprender e aplicar conceitos inovadores para contribuir para um mundo mais eficiente e conectado.
-
-  - ⚡ Gosto de ler mangas e quadrinhos variados, sempre que posso estudo novas linguagens de programação e novos meios a serem implementados em meus projetos. \o/
-</details>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hian_maths?igshid=YTQwZjQ0NmI0OA==)
