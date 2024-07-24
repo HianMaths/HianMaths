@@ -2,8 +2,8 @@
 
 <!--GitHub Stats-->
 <div>
-  <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=HianMaths&show_icons=true&theme=gotham"/>
-  <img height="180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HianMaths&layout=compact&theme=gotham"/>
+  <img height="150cm" src= "https://github-readme-stats.vercel.app/api?username=HianMaths&show_icons=true&theme=gotham"/>
+  <img height="150cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=HianMaths&layout=compact&theme=gotham"/>
 </div>
 
  ## Tecnologias que eu uso no meu dia
