@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Faminas.
+- 💼 Atualmente desempregado, mas em busca da minha primeira oportudade.
+- 🌱 Aprendendo mais sobre React, TypeScript e Api.
 
 ## Minhas Skills
 
@@ -41,6 +41,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hian-matheus/)](https://www.linkedin.com/in/hian-matheus/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hianmatheus1@outlook.com)](mailto:hianmatheus1@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/HianMaths)
+[![Linkedin](https://img.shields.io/badge/-HianMaths-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hian-matheus/)](https://www.linkedin.com/in/hian-matheus/)
+[![Gmail Badge](https://img.shields.io/badge/-hianmatheus1@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hianmatheus1@outlook.com)](mailto:hianmatheus1@outlook.com)
+[![GitHub](https://img.shields.io/github/followers/HianMaths?label=follow&style=social)](https://github.com/HianMaths)
