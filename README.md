@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Faminas.
-- 💼 Atualmente desempregado, mas em busca da minha primeira oportunidade.
+- 💼 Em busca da minha primeira oportunidade.
 - 🌱 Aprendendo mais sobre React, TypeScript e Api.
 
 ## Minhas Skills
