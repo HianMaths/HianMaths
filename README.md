@@ -1,36 +1,32 @@
-![](https://komarev.com/ghpvc/?username=HianMaths&color=006bed)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-## Sobre mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Hian+Matheus;I'm+22+years+old;I'm+from+Brazil;Be+Welcome+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Faminas.
-- 💼 Em busca da minha primeira oportunidade.
-- 🌱 Aprendendo mais sobre React, TypeScript e Api.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HianMaths&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Araújo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HianMaths&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117"/>
+  
+  <a href="www.linkedin.com/in/hianmaths" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.instagram.com/hian_maths/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;">
+  </a>
+</div>
 
-## Minhas Skills
+### Main Skills:
+<div display="flex">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
+</div>
 
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/HianMaths" title="Perfil do Hian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HianMaths&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-HianMaths-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hian-matheus/)](https://www.linkedin.com/in/hian-matheus/)
-[![Gmail Badge](https://img.shields.io/badge/-hianmatheus1@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hianmatheus1@outlook.com)](mailto:hianmatheus1@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/HianMaths?label=follow&style=social)](https://github.com/HianMaths)
+### Studying in this moment:
+<div display="flex">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</div>
