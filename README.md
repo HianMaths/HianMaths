@@ -79,7 +79,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" 
 />
 <br/>
-
+<br/>
 ### Estatísticas
 
 <p>
