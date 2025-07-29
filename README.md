@@ -51,6 +51,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
 />
+<img
+    align="left"
+    alt="VsCode"
+    title="VsCode"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
 <br/>
 <br/>
 ### Estudando no momento
