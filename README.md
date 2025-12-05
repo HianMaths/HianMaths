@@ -4,16 +4,18 @@
 
 ####  - Linguagens de Programação :
 <p align="left">
-  <img src="https://raw.githubusercontent.com/HianMaths/Pixel-badges/refs/heads/main/assets/JAVA-BADGE.png?token=GHSAT0AAAAAADOFGTLWTUZY77W4YGJPZNHI2JNHK4A" height="42" alt="Java">
-  <img src="https://raw.githubusercontent.com/HianMaths/Pixel-badges/refs/heads/main/assets/JAVASCRIPT-BADGE.png?token=GHSAT0AAAAAADOFGTLWH2VZ7NEI3T57523Y2JNHNMQ" height="42" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/HianMaths/Pixel-badges/refs/heads/main/assets/TYPESCRIPT-BADGE.png?token=GHSAT0AAAAAADOFGTLXZWT7D2D3SSTFK47S2JNHOAA" height="42" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="28" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TYPESCRIPT-button.png" height="28" alt="TypeScript">
 </p>
 
 ####  - Banco de Dados :
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTGRES-button.png" height="28" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MONGODB-button.png" height="28" alt="MongoDB">
+</p>
 
 #### - Ferramentas e utilitários :
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
