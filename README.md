@@ -18,28 +18,21 @@
 </p>
 
 #### - Ferramentas e utilitários :
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INTELLIJIDEA-button.png" height="28" alt="IntelliJ IDEA">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NOTION-button.png" height="28" alt="Notion">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTMAN-button.png" height="28" alt="Postman">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSOMNIA-button.png" height="28" alt="Insomnia">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
+</p>
 
 ####  - Estudando no momento :
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-### Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HianMaths&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%23-button.png" height="28" alt="C#">
+ 	<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-button.png" height="28" alt="Spring">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REDIS-button.png" height="28" alt="Redis">
+</p>
 
 <img 
       align="left" 
