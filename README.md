@@ -24,12 +24,11 @@
   <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTMAN-button.png" height="28" alt="Postman">
   <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSOMNIA-button.png" height="28" alt="Insomnia">
   <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DOCKER-button.png" height="28" alt="Docker">
 </p>
 
 ####  - Estudando no momento :
 <p align="left">
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%23-button.png" height="28" alt="C#">
- 	<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-button.png" height="28" alt="Spring">
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GO-button.png" height="28" alt="Go">
   <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REDIS-button.png" height="28" alt="Redis">
 </p>
